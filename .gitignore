@@ -1,0 +1,15 @@
+# Bundler
+/.bundle/
+/vendor/bundle/
+
+# ビルド成果物
+/pkg/
+*.gem
+
+# 動作確認で生成した出力 CSV
+/tmp/
+*.cleaned.csv
+
+# エディタ / OS
+.DS_Store
+*.swp
