@@ -1,0 +1,13 @@
+氏名,メールアドレス,電話番号,会社名,備考
+  田中 太郎  ,TANAKA.Taro@Example.com ,090-1234-5678,株式会社サンプル,
+田中　太郎,tanaka.taro@example.com,09012345678,株式会社サンプル,-
+佐藤 花子,SATO_HANAKO@example.CO.JP,+81 80-9876-5432,サンプル商事,  要確認  
+鈴木 一郎,mailto:suzuki@example.jp,０９０−１１１１−２２２２,,なし
+高橋 めぐみ,<takahashi@example.com>,03-1234-5678,テスト工業株式会社,
+伊藤 健,ito.ken@example,090 3333 4444,ー,不明
+渡辺 さやか,watanabe@example.com,0312,"株式会社テスト, 大阪支店",
+山本 大輔,YAMAMOTO@EXAMPLE.COM,+1 202-555-0143,Example Inc.,海外拠点
+中村 あや,  nakamura @ example.com ,080-5555-6666,中村デザイン,
+佐藤 花子,sato_hanako@example.co.jp,08098765432,サンプル商事,要確認
+小林 翼,kobayashi@example.ne.jp,０８０ー７７７７ー８８８８,小林物産,N/A
+加藤 真一,,0120-123-456,加藤商会,電話のみ
